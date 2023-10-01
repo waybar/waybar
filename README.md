@@ -1,5 +1,7 @@
 # [Waybar](https://github.com/Alexays/Waybar)
-- Highly customizable Wayland bar for Sway and Wlroots based compositors.
+
+[![Waybar](https://github-readme-stats.vercel.app/api/pin/?username=alexays&repo=waybar&theme=transparent)](https://github.com/Alexays/Waybar)
+
 
 <!---
 waybar/waybar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
